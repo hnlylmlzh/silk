@@ -14,7 +14,7 @@
     }
 ],
 "require": {
-"swiftmailer/swiftmailer": "5.3.*@dev",
+"swiftmailer/swiftmailer": "5.2.*@dev",
 "phpoffice/phpexcel": "dev-master"
 },
         "repositories": [
