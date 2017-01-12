@@ -13,8 +13,7 @@
     }
 ],
 "require": {
-"swiftmailer/swiftmailer": "5.3.*@dev",
-"phpoffice/phpexcel": "dev-master"
+"meta/silk": "*",
 },
         "repositories": [
         {   
