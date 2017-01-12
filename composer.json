@@ -5,6 +5,7 @@
 "homepage":         "http://www.test.com",
 "time":             "2014-12-30",
 "license":          "MIT",
+"version": "1.0.0",
 "authors": [
     {
         "name":         "Elvis Lim",
