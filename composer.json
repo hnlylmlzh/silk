@@ -12,7 +12,7 @@
         "role":         "Engineer"
     }
 ],
-"require": {
+"require": { 
 "meta/silk": "*"
 },
         "repositories": [
