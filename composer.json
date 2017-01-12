@@ -1,0 +1,28 @@
+{
+"name":             "meta/silk",
+"description":      "another e-commerce website",
+"keywords":         ["silk", "online shop", "good"],
+"homepage":         "http://www.test.com",
+"time":             "2014-12-30",
+"license":          "MIT",
+"authors": [
+    {
+        "name":         "Elvis Lim",
+        "email":        "elvis@xxx.com",
+        "role":         "Engineer"
+    }
+],
+"require": {
+"swiftmailer/swiftmailer": "5.3.*@dev",
+"phpoffice/phpexcel": "dev-master"
+},
+        "repositories": [
+        {   
+            "packagist": false
+        },  
+        {   
+            "type": "composer", 
+            "url": "https://packagist.phpcomposer.com"
+        }   
+    ]
+}
