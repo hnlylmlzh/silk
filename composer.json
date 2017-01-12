@@ -12,8 +12,9 @@
         "role":         "Engineer"
     }
 ],
-"require": { 
-"meta/silk": "*"
+"require": {
+"swiftmailer/swiftmailer": "5.3.*@dev",
+"phpoffice/phpexcel": "dev-master"
 },
         "repositories": [
         {   
